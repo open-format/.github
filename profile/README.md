@@ -1,7 +1,7 @@
 # OPENFORMAT
 
-OPENFORMAT is a framework designed for on-chain rewards and reputation.
+We build community intelligence tools which coordinate actions, surface value and reward contributions across multiple platforms.
 
-🚀 **Get Started**: Head over to our [Platform](https://rewards.openformat.tech/) to start triggering on-chain rewards. 
+Our tools are built on the OPENFORMAT framework designed for on-chain rewards and reputation systems.
 
 🤝 **Join Our Community**: Be part of our growing community of innovative developers. Connect, share, and collaborate with us on [Discord](https://discord.gg/Aays8HBkZ2).
